@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)]
 <h1 align="center">Hi 👋, I'm Aakriti Upadhyay</h1>
 <h3 align="center">A passionate UI/UX and frontend developer from India</h3>
 
